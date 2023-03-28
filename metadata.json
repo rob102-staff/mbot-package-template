@@ -1,0 +1,9 @@
+{
+    "name": "MBot Package Template",
+    "author": "<Your Name>",
+    "version": "1.0",
+    "description": "<Description>",
+    "html_file": "index.html",
+    "uuid": "<run mbot-cli update-uuid>",
+    "hidden": false
+}
